@@ -15,13 +15,12 @@ footer:
   copyright: Copyright
 
 index:
-  find_me_on: Find me on
+  find_me_on: 'Find me on'
   enum_comma: ','
-  enum_and: and
+  enum_and: 'and'
   articles: Writing
   projects: Projects
-  topics: Topics
-  most_recent: Most recent
+  reading: Reading List
 
 post:
   desktop:

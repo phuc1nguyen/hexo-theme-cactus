@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/phuc1nguyen
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -15,9 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  projects: http://github.com/phuc1nguyen
+  about: /about/
 
 
 # Links to your social media accounts.
@@ -29,24 +29,13 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com/probberechts/cactus-dark
+    link: http://github.com/phuc1nguyen
   -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
+    icon: linkedin
+    link: https://www.linkedin.com/in/phuc1nguyen/
   -
     icon: mail
-    link: mailto:name@email.com
-  -
-    icon: mastodon
-    label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: https://fosstodon.org/@alice
+    link: mailto:phuc1nguyen@proton.me
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -192,8 +181,8 @@ baidu_analytics:
 
 # Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.
 cloudflare_analytics:
-  enabled: false
-  id: 0dabb6e21848405483a237e6a7b6ed04
+  enabled: true
+  id: 720ac970a65c44db859fc6ae2e9bd0bb
 
 # Fill in your Umami Analytics tracking ID to enable Umami Analytics.
 umami_analytics:
