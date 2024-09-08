@@ -15,10 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+  about: /about/
   articles: /archives/
   projects: http://github.com/phuc1nguyen
-  about: /about/
-
 
 # Links to your social media accounts.
 # The 'icon' keys should correspond to Fontawesome icon names
@@ -68,7 +67,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2016
+  start_year: 2024
   end_year:
 
 # Customize the 404 page
